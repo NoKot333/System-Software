@@ -1,0 +1,13 @@
+{
+    "name": "Lab5 Launch",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${workspaceFolder}/lab51.out",
+    "stopAtEntry": false,
+    "customLaunchSetupCommands": [
+      { "text": "target-run", "description": "run target", "ignoreFailures": false }
+    ],
+    "launchCompleteCommand": "exec-run",
+    "MIMode": "gdb",
+    "miDebuggerPath": "/usr/bin/gdb"
+  }

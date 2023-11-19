@@ -1,0 +1,3 @@
+Epifantsev CleanerManager 100
+Kraubsberg Engineer 500
+Harlashin Barista 200
